@@ -1,0 +1,12 @@
+{
+  "export_job_id": "945a27d3-21c5-42a1-83d5-c50373c1aea9",
+  "id_short": 157409,
+  "published_at": "2026-04-10T19:20:13Z",
+  "repo_name": "high-volume-restaurants-experiencing-a-30-crash-this-quarter-in-california-sample-157409",
+  "sample_asset_name": "beamstation_157409_food_and_drink-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/157409/beamstation_157409_food_and_drink-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 96,
+  "sample_sha256": "836994554ee3de54a095aefe1e78dcaedc7bd4a1aabb2b024fd4cfb9fa70e2ba",
+  "sample_size_bytes": 410774,
+  "total_records": 967
+}
