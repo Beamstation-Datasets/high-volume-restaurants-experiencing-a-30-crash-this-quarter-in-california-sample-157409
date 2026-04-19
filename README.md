@@ -1,6 +1,6 @@
 # High-Volume Restaurants Experiencing a 30%+ Crash This Quarter in California
 
-> Free BeamStation sample export with 96 rows and masked direct-contact fields.
+> Free BeamStation sample export with 121 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `157409` |
 | Location | California |
 | Category | Food and Drink |
-| Full dataset size | 967 records |
-| Free sample size | 96 records (9.93%) |
-| Last export | 2026-04-09T18:37:57.948826+00:00 |
+| Full dataset size | 1,213 records |
+| Free sample size | 121 records (9.98%) |
+| Last export | 2026-04-17T00:43:39.807170+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/high-volume-restaurants-experiencing-a-30-crash-this-quarter-in-california-sample-157409/releases/download/sample-latest/beamstation_157409_food_and_drink-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
